@@ -9,7 +9,7 @@ With this solution you just connect your power clamp to the amplifier and the am
 ## Have a look at this nice simulation:
 https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmATNA7AhAOBjVIAWfbEBANnJCOXIFMBaMMAKADcRUNUViueNMFUjhyoiKKnQErAA7hUOPkUXKiwlFC6sA7mpUDeyfpD1GhVMEstRzROLYQYqGkawAm5aykLkXvqK8YAByzizm3LxuNI4xZgoUgmiiSdGadEHmaYH+VCl2+g6iMcUoyO4AThYmqjG12sgmcKzVMagOeVydEvAthACcXQXOrprSfZAD0zOzc0PIsHBEFGAYAxQIyDOZ4KwAhrYjPgXKYEjMSGCT0hQUkOtEGMQVqKibyowwTTy4OAMYMAObAYDDgSbmUbdURQgpmIqaKJHUz2DIVWKiJruBFUDolRGCeFdGI5eKsAD2YgoqgkbwGmNgJjAJmQ1jAAyBRBpS0gki4IDBZiAA
 # How does it work?
-The schematics is a standard precission rectifier buil with an operation amplifier, two resistors, a diode and a capacity. That's easy.
+The schematics is a standard precission rectifier buil with an operation amplifier, two resistors, a diode and a capacity.
 # Is there a working schematics and a board design?
 Yes! 
 This is the eagle schamatic and the eagle board
