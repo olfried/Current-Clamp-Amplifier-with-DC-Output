@@ -14,4 +14,5 @@ The schematics is a standard precission rectifier buil with an operation amplifi
 Yes! 
 This is the eagle schamatic and the eagle board
 ![image](https://github.com/olfried/Current-Transformator-Amplifier-with-DC-Output/assets/1424287/fb836c10-add7-444c-9d68-6aecdde90775)
+![image](https://github.com/olfried/Current-Transformator-Amplifier-with-DC-Output/assets/1424287/52c06ced-3bea-4f8c-8aae-537ad149ca01)
 
