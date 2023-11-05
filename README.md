@@ -24,4 +24,6 @@ No, but you can get a kit consisting of:
 - Eight Resistors (4x33k, 4x100k)
 - Four schottky diodes (4 x BAT46)
 - Four electrolytic capacitor (4 x 10uF)
-  
+
+If you are interested, let me know:
+olaf@ramge.de
