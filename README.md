@@ -12,6 +12,6 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEBmATNA7AhAOBjV
 The schematics is a standard precission rectifier buil with an operation amplifier, two resistors, a diode and a capacity. That's easy.
 # Is there a working schematics and a board design?
 Yes! 
-This is the eagle schamatic dn the eagle board
+This is the eagle schamatic and the eagle board
 ![image](https://github.com/olfried/Current-Transformator-Amplifier-with-DC-Output/assets/1424287/fb836c10-add7-444c-9d68-6aecdde90775)
 
