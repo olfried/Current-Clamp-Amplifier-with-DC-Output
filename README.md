@@ -1,4 +1,4 @@
-# Esp-Easy-Power-Clamp
+# CT Amplifier with DC output
 
 # What is it?
 This is a four channel Amplifier for Current Transformators like the SCT-013-10
